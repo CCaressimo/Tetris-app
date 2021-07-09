@@ -9,7 +9,7 @@
 * Rock Paper Scissors
 * Tetris
 
-# Deployed site https://dev-arcade.herokuapp.com
+## Deployed site https://dev-arcade.herokuapp.com
 
 ### This repo only contains the code for Tetris.
 
